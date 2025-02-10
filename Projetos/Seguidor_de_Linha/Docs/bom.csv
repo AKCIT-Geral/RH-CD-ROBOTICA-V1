@@ -1,0 +1,7 @@
+﻿Name,Quantity,Component
+"U1",1," Arduino Uno R3"
+"R1, R4",2," Photoresistor"
+"R2, R3",2,"1 kΩ Resistor"
+"U2",1," H-bridge Motor Driver"
+"M1, M2",2," Hobby Gearmotor"
+"P2",1,"9 , 5  Power Supply"
